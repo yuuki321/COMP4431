@@ -2,10 +2,8 @@
 
 Generate, visualize, post-process, and export audio right in your browser. This project is a front‑end Web Audio playground featuring classic waveforms, additive and FM synthesis, Karplus–Strong plucked strings, and a powerful ADSR envelope editor (with dynamic graph and multistage support).
 
-- Live demo: https://yuuki321.github.io/Comp4431/
-- Video demo: 
-  - Original: https://yuuki321.github.io/Comp4441/4431 video.mp4
-  - URL-encoded (if your browser has trouble with spaces): https://yuuki321.github.io/Comp4441/4431%20video.mp4
+- [Live demo click here](https://yuuki321.github.io/Comp4431/)
+- [Video demo click here](https://yuuki321.github.io/Comp4441/video_demo.mp4)
 
 ---
 
